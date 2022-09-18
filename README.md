@@ -12,6 +12,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 💻 Projeto
-![preview](./preview.png/)
+![preview](./assets/preview.png/)
 [Clique aqui para acessar]()
 > **Objetivo:** Criar um contador com JavaScript.
