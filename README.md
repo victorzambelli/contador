@@ -13,5 +13,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 ![preview](./assets/preview.png/)
-[Clique aqui para acessar]()
+[Clique aqui para acessar](https://contador-lime.vercel.app/)
 > **Objetivo:** Criar um contador com JavaScript.
