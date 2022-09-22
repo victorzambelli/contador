@@ -12,5 +12,5 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 ![preview](./assets/preview.png/)
-[Clique aqui para acessar](https://contador-lime.vercel.app/)
-> **Objetivo:** Create a counter.
+[Click here to access project](https://contador-lime.vercel.app/)
+> **Objective:** Create a counter.
