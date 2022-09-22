@@ -1,17 +1,16 @@
 # contador
-Projeto desenvolvido com base em um contador comum, com funções de aumentar e diminuir.
+Project developed is a simple counter with functions to increase and decrease.
 
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Technologies
+This project was developed with the following technologies:
 - HTML
 - CSS
 - JavaScript
 
-## 📚 Bibliotecas:
+## 📚 Libraries
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## 💻 Projeto
+## 💻 Project
 ![preview](./assets/preview.png/)
 [Clique aqui para acessar](https://contador-lime.vercel.app/)
-> **Objetivo:** Criar um contador com JavaScript.
+> **Objetivo:** Create a counter.
